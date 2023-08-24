@@ -1,0 +1,21 @@
+<html>
+<head>
+<title>पशु कल्याण</title>
+    <link rel="stylesheet" type="text/css" href="ashicss1.css">
+</head>
+<body>
+    <div class="loginbox">
+        <img src="logo.jpg" class="cow">
+                <h1>पशु कल्याण</h1>
+                <h1>LogIn</h1>
+                <form>
+                    <p>PAN Number</p>
+                    <input type="text" name="" placeholder="Enter User Id">
+                    <p>Password</p>
+                    <input type="text" name="" placeholder="Enter Password">
+                    <input type="submit" name="" value="LogIn" onclick="auth()" />
+                </form>
+     </div>
+</body>
+</head>
+</html>
